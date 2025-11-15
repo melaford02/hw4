@@ -1,3 +1,5 @@
+//pasted from my vscode to run tests
+
 #include <iostream>
 #include <map>
 #include "bst.h"
